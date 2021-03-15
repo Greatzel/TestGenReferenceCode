@@ -1,0 +1,5 @@
+C:\Users\Greatzel\source\Repos\TestGenerator-01\obj\Debug\netcoreapp3.1\TestGenerator-01.csprojAssemblyReference.cache
+C:\Users\Greatzel\source\Repos\TestGenerator-01\obj\Debug\netcoreapp3.1\TestGenerator-01.AssemblyInfoInputs.cache
+C:\Users\Greatzel\source\Repos\TestGenerator-01\obj\Debug\netcoreapp3.1\TestGenerator-01.AssemblyInfo.cs
+C:\Users\Greatzel\source\Repos\TestGenerator-01\obj\Debug\netcoreapp3.1\TestGenerator-01.csproj.CoreCompileInputs.cache
+C:\Users\Greatzel\source\Repos\TestGenerator-01\obj\Debug\netcoreapp3.1\TestGenerator-01.csproj.ResolveComReference.cache
